@@ -23,8 +23,9 @@ Eight tables model the core entities of an airline booking system, with primary/
 |---|---|
 | `phase1_database_build.sql` | Initial DDL script creating all 8 tables with primary/foreign key constraints |
 | `phase2_database_build.sql` | Revised DDL script, rebuilt to prepare the schema for importing sample data |
-| `data_dictionary.xlsx` | Field-by-field data dictionary: descriptions, sample values, and data types for every table |
-| `sample_data/` | Sample datasets used to populate the tables (aircraft, airports, flights, bookings, seats) |
+| `data_dictionary.pdf` | Field-by-field data dictionary: descriptions, sample values, and data types for every table |
+| `sample_data/` | Sample data for aircraft, airports, flights, and seats |
+| `zbooking.xlsx` | Sample booking data (kept at root; too large for the sample_data folder view) |
 
 ## Tech stack
 
